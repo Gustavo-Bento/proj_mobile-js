@@ -12,7 +12,10 @@ export default()=>(
 const style = StyleSheet.create(
   {
     p:{
-      fontFamily: 'Helvetica'
+      fontFamily: 'Helvetica',
+      backgroundColor: '#404040',
+      color: 'white',
+      display: 'block'
     }
   }
 );

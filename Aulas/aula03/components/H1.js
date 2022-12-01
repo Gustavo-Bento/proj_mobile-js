@@ -12,7 +12,11 @@ export default()=>(
 const style = StyleSheet.create(
   {
     h1:{
-      fontSize: 'x-large'
+      fontSize: 'x-large',
+      backgroundColor: '#606060',
+      color: 'white',
+      display: 'block',
+      margin: '0.67em'
     },
   }
 );
